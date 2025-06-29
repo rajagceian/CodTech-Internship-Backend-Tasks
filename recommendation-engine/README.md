@@ -52,8 +52,8 @@ recommendation-engine/ <br>
 
 # 2️⃣ Create Virtual Environment (Recommended)
   python3 -m venv venv <br>
-  source venv/bin/activate
-  **If venv is not available:**
+  source venv/bin/activate <br>
+  **If venv is not available:** <br>
    sudo apt install python3-venv
 
 # 3️⃣ Install Dependencies
