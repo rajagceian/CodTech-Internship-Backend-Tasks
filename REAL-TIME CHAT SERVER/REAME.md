@@ -42,4 +42,20 @@ A lightweight, scalable **real-time chat backend** built with **Node.js** and **
 ---
 
 ## 📁 Project Structure
+chat-server/ </br>
+├── index.js </br>
+├── package.json </br>
+└── .env (optional) </br>
+
+
+# 2️⃣ Install Dependencies
+  npm install
+
+# 3️⃣ Configure (Optional)
+  Create a .env file if you want to customize port:
+  PORT=3001
+
+# 4️⃣ Run the Server
+ node index.js
+
 
