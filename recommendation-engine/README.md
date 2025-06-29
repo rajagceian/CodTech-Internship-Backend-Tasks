@@ -61,3 +61,7 @@ recommendation-engine/ <br>
 
 # 4️⃣ Run the Server
  python app.py
+
+ ![Image](https://github.com/user-attachments/assets/f68cd21c-351e-407c-bd59-a9a0b3c91088)
+
+![Image](https://github.com/user-attachments/assets/a9ea13ea-12ee-43b4-b9e9-fdabfa44cf02)
