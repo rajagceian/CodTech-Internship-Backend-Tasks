@@ -1,5 +1,21 @@
 # 💬 Real-Time Chat Server
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: RAJA KUMAR
+
+*INTERN ID*: CT04DF1126
+
+*DOMAIN*:BACKEND WEB DEVELOPMENT
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTHOSH KUMAR
+
+------------------------------------------------------------------------------------------
+
+# 💬 Real-Time Chat Server
+
 A lightweight, scalable **real-time chat backend** built with **Node.js** and **Socket.IO**, supporting **multiple chat rooms**. This server enables users to join specific rooms, send and receive messages in real time, and handle clean disconnections.
 
 ---
